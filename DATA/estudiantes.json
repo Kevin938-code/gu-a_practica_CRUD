@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "nombre": "jose",
+    "apellido": "ortiz",
+    "email": "joseol6@unemi.edu.ec",
+    "carnet": "J2300435480",
+    "notas": {
+      "ingles": [
+        18.0
+      ],
+      "matematica": [
+        17.0
+      ]
+    },
+    "materias": [
+      "ingles",
+      "matematica"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "andres",
+    "apellido": "silva",
+    "email": "Asilvas7@unemi.edu.ec",
+    "carnet": "A1102281902",
+    "notas": {
+      "ingles": [
+        20.0
+      ],
+      "ciencias naturales": [
+        14.0
+      ]
+    },
+    "materias": [
+      "ciencias naturales",
+      "ingles"
+    ]
+  }
+]
