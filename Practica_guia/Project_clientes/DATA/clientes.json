@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "nombre": "adrian",
+    "apellido": "ortiz",
+    "email": "adiranookey@gmail.com",
+    "telefono": "0937854624",
+    "ciudad": "sto.domingo",
+    "direccion": "coop.unificados calle paute y pasaje"
+  },
+  {
+    "id": 3,
+    "nombre": "paola",
+    "apellido": "ortiz",
+    "email": "paolaviv@hotmail.com",
+    "telefono": "",
+    "ciudad": "sto.domingo",
+    "direccion": "coop.unificados calle paute y pasaje"
+  },
+  {
+    "id": 4,
+    "nombre": "andres",
+    "apellido": "santillan",
+    "email": "silva@unemi.edu.ec",
+    "telefono": "0940165078",
+    "ciudad": "babahoyo",
+    "direccion": ""
+  }
+]
